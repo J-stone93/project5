@@ -11,8 +11,8 @@ public class Ex1 {
 		date.day = 31;
 		System.out.println("현재 날짜는" + date.month + "월" + date.day + "일 입니다" );
 
+		
 	}
-
 }
 
 class MyDate {
